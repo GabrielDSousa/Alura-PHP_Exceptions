@@ -1,14 +1,14 @@
-# Object Oriented PHP
-[Object Oriented with PHP: Class, methods and atributes](https://cursos.alura.com.br/course/php-oo-classes-metodos-atributos)
+# PHP Exceptions
+[PHP Exceptions: Errors treatment](https://cursos.alura.com.br/course/php-exceptions-tratamento-erros)
 
 This a trainning provided by [Alura](https://cursos.alura.com.br)
 
 In this trainning I'm learning:
-- Difference between the OO and procedural paradigm
-- Learn how to use builders
-- Learn how to use static methods
-- Reuse code through composition
-- Classes, objects, attributes and methods
+- Throw a exception
+- Customize a exception
+- Catch many exception at same time
+- How to utilize the block try-catch
+- The utility of the block finally
 
 ## Installation
 
