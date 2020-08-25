@@ -28,4 +28,5 @@ php bank.php
 With you want to test another features of the simple bank, modify the bank file and run the bash again.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/GabrielDSousa/PHP_Exceptions/blob/master/LICENSE.md)
+
